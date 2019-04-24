@@ -7,7 +7,7 @@ Cleaning U.S. Census data - Commuting Analysis Project (special thanks to Chris 
 import pandas as pd
 import numpy as np
 
-# Visualisations
+# Visualizations
 import matplotlib.pyplot as plt 
 import seaborn as sns
 import plotly as py
